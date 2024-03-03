@@ -1,0 +1,3 @@
+/Users/stuart/Desktop/practic_1/alg_lab6/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-rgIBHk/CMakeFiles/cmTC_159ba.dir
+/Users/stuart/Desktop/practic_1/alg_lab6/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-rgIBHk/CMakeFiles/edit_cache.dir
+/Users/stuart/Desktop/practic_1/alg_lab6/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-rgIBHk/CMakeFiles/rebuild_cache.dir

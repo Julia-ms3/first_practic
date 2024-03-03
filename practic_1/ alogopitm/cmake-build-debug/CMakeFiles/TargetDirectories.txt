@@ -1,0 +1,3 @@
+/Users/stuart/CLionProjects/ alogopitm/cmake-build-debug/CMakeFiles/_alogopitm.dir
+/Users/stuart/CLionProjects/ alogopitm/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/stuart/CLionProjects/ alogopitm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
